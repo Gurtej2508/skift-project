@@ -33,7 +33,7 @@
 
 /* banner start */
 .banner {
-  background-image: url("/project2/photos/Banner\ Skift\ 1.png");
+  background-image: url("./photos/Banner\ Skift\ 1.png");
   height: 500px;
   background-size: 100% 100%;
   background-repeat: no-repeat;
